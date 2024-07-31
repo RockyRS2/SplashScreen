@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">uts</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="default_web_client_id">718642702266-va10dpajo92ve18fhtkrq6ati7ofkv3s.apps.googleusercontent.com</string>
 </resources>
